@@ -43,4 +43,4 @@ for k, v in pairs(kid_class) do
 	print(k..':'..v)
 end
 
-
+print(kid_class:bark("meow"))
